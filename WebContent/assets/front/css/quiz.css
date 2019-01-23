@@ -1,0 +1,18 @@
+#quiz {
+    text-indent: 10px;
+    display:none;
+}
+
+#start {
+    display:none;
+}
+
+div#question ul {
+    list-style-type: none;
+    padding: 0;
+    margin: 0;
+}
+
+div#question ul li{
+    margin: 10;
+}

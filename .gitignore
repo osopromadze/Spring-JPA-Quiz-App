@@ -1,0 +1,24 @@
+# Directories #
+build/
+bin/
+target/
+libs/
+tmp/
+
+######################
+# Eclipse
+######################
+ 
+*.pydevproject
+.project
+.metadata
+*.tmp
+*.bak
+*.swp
+*~.nib
+local.properties
+.classpath
+.settings/
+.loadpath
+
+.DS_Store
